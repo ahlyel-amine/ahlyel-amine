@@ -7,13 +7,21 @@
   <img src="https://profile-counter.glitch.me/AhlyelAmine/count.svg" />
 </p>
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AhlyelAmine&repo=pipex&theme=midnight-purple)](https://github.com/AhlyelAmine/pipex)
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AhlyelAmine&repo=Push_swap&theme=midnight-purple)](https://github.com/AhlyelAmine/Push_swap)
+<h2> Welcome to my Github account where you will find the folowing topics (and more):</h2>
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AhlyelAmine&repo=Push_swap&theme=gruvbox)](https://github.com/AhlyelAmine/Push_swap)
   
-<h2>This is a quick look into my favorite coding languages /Stats:</h2>
+<h2>In work :</h2>
  
-  ![Ahlyel's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhlyelAmine&show_icons=true&theme=midnight-purple)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhlyelAmine&hide=Jupyter%20Notebook&layout=compact&theme=midnight-purple)](https://github.com/rahulbordoloi/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AhlyelAmine&repo=pipex&theme=gruvbox)](https://github.com/AhlyelAmine/pipex)
+
+ <h2>This is a quick look into my favorite coding languages /Stats:</h2>
+
+  ![Ahlyel's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhlyelAmine&show_icons=true&theme=gruvbox)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhlyelAmine&hide=Jupyter%20Notebook&layout=compact&theme=gruvbox)](https://github.com/rahulbordoloi/github-readme-stats)
+ 
+ <h2>This is my level in 42Network cursus </h2>
+ [![aahlyel's 42 stats](https://badge.mediaplus.ma/kettlebells/aahlyel)](https://github.com/oakoudad/badge42)
  
  <h3>📫 How to reach me:</h3>
 <p>You can reach me at the following accounts!</p>
