@@ -7,8 +7,8 @@
   <img src="https://profile-counter.glitch.me/AhlyelAmine/count.svg" />
 </p>
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AhlyelAmine&repo=pipex&theme=midnight-purple)](https://github.com/AhlyelAmine/pipex)(
-  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AhlyelAmine&repo=pipex&theme=midnight-purple)](https://github.com/AhlyelAmine/pipex)
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AhlyelAmine&repo=Push_swap&theme=midnight-purple)](https://github.com/AhlyelAmine/Push_swap)
   
 <h2>This is a quick look into my favorite coding languages /Stats:</h2>
  
