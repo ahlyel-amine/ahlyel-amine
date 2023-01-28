@@ -1,7 +1,7 @@
 
 <h1 align="center">< /AhlyelAmine></h1>
 <p align="center">
-  <img src="https://github.com/AhlyelAmine/AhlyelAmine/blob/main/" alt="loading..." />
+  <img src="https://github.com/AhlyelAmine/AhlyelAmine/blob/main/great.gif" alt="loading..." />
 </p>
 <p align="center">
   <a href=#><img src="contributions.svg"></a>
