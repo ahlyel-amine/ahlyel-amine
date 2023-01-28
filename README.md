@@ -1,19 +1,19 @@
- <h1 style="align:center">< /AhlyelAmine></h1>
 
+<h1 align="center">< /AhlyelAmine></h1>
 <p align="center">
   <img src="https://github.com/AhlyelAmine/AhlyelAmine/blob/main/AhlyelAmine.gif" alt="loading..." />
 </p>
- 
-<a href=#><img src="contributions.svg"></a>
- 
+<p align="center">
+  <a href=#><img src="contributions.svg"></a>
+</p>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/AhlyelAmine/count.svg" />
 </p>
 
 <h2> Welcome to my Github account where you will find the folowing topics (and more):</h2>
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AhlyelAmine&repo=Push_swap&theme=gruvbox)](https://github.com/AhlyelAmine/Push_swap)     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AhlyelAmine&repo=get_next_line&theme=gruvbox)](https://github.com/AhlyelAmine/get_next_line)
+ 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AhlyelAmine&repo=Push_swap&theme=gruvbox)](https://github.com/AhlyelAmine/Push_swap)     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AhlyelAmine&repo=get_next_line&theme=gruvbox)](https://github.com/AhlyelAmine/get_next_line)
 
  <h2>In work :</h2>
  
