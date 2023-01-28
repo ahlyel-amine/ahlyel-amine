@@ -9,9 +9,9 @@
 
 <h2> Welcome to my Github account where you will find the folowing topics (and more):</h2>
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AhlyelAmine&repo=Push_swap&theme=gruvbox)](https://github.com/AhlyelAmine/Push_swap)
-  
-<h2>In work :</h2>
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AhlyelAmine&repo=Push_swap&theme=gruvbox)](https://github.com/AhlyelAmine/Push_swap)     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AhlyelAmine&repo=get_next_line&theme=gruvbox)](https://github.com/AhlyelAmine/get_next_line)
+
+ <h2>In work :</h2>
  
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AhlyelAmine&repo=pipex&theme=gruvbox)](https://github.com/AhlyelAmine/pipex)
 
