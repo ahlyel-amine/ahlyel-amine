@@ -1,7 +1,11 @@
  <h1 style="align:center">< /AhlyelAmine></h1>
 
+<p align="center">
+  <img src="https://github.com/AhlyelAmine/AhlyelAmine/blob/main/AhlyelAmine.gif" alt="loading..." />
+</p>
+ 
 <a href=#><img src="contributions.svg"></a>
-
+ 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/AhlyelAmine/count.svg" />
