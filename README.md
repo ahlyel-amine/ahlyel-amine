@@ -20,10 +20,13 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AhlyelAmine&repo=pipex&theme=gruvbox)](https://github.com/AhlyelAmine/pipex)
 
  <h2>This is a quick look into my favorite coding languages /Stats:</h2>
+ <p align="left">
+  <img width="43%" src="https://awesome-github-stats.azurewebsites.net/user-stats/AhlyelAmine?cardType=github&theme=gruvbox" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AhlyelAmine&theme=gruvbox" />
+</p>
 
-  ![Ahlyel's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhlyelAmine&show_icons=true&theme=gruvbox)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhlyelAmine&hide=Jupyter%20Notebook&layout=compact&theme=gruvbox)](https://github.com/rahulbordoloi/github-readme-stats)
- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhlyelAmine&hide=Jupyter%20Notebook&layout=compact&theme=gruvbox)](https://github.com/rahulbordoloi/github-readme-stats)
+
  <h2>This is my level in 42Network cursus </h2>
  
  [![aahlyel's 42 stats](https://badge.mediaplus.ma/kettlebells/aahlyel)](https://github.com/oakoudad/badge42)
