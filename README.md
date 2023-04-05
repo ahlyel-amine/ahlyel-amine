@@ -27,10 +27,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhlyelAmine&hide=Jupyter%20Notebook&layout=compact&theme=gruvbox)](https://github.com/rahulbordoloi/github-readme-stats)
 
- <h2>This is my level in 42Network cursus </h2>
- 
- [![aahlyel's 42 stats](https://badge.mediaplus.ma/kettlebells/aahlyel)](https://github.com/oakoudad/badge42)
- 
  <h3>📫 How to reach me:</h3>
 <p>You can reach me at the following accounts!</p>
 
