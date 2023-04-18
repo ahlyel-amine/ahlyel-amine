@@ -13,11 +13,10 @@
 
 <h2> Welcome to my Github account where you will find the folowing topics (and more):</h2>
  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AhlyelAmine&repo=Push_swap&theme=gruvbox)](https://github.com/AhlyelAmine/Push_swap)     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AhlyelAmine&repo=get_next_line&theme=gruvbox)](https://github.com/AhlyelAmine/get_next_line) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AhlyelAmine&repo=pipex&theme=gruvbox)](https://github.com/AhlyelAmine/pipex)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AhlyelAmine&repo=get_next_line&theme=gruvbox)](https://github.com/AhlyelAmine/get_next_line) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AhlyelAmine&repo=pipex&theme=gruvbox)](https://github.com/AhlyelAmine/pipex)
  <h2>In work :</h2>
  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AhlyelAmine&repo=FDF&theme=gruvbox)](https://github.com/AhlyelAmine/FDF)   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AhlyelAmine&repo=MVC_LARAVEL&theme=gruvbox)](https://github.com/AhlyelAmine/MVC_LARAVEL)
-
+MINISHELL
 
  <h2>This is a quick look into my favorite coding languages /Stats:</h2>
  <p align="left">
@@ -26,7 +25,10 @@
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhlyelAmine&hide=Jupyter%20Notebook&layout=compact&theme=gruvbox)](https://github.com/rahulbordoloi/github-readme-stats)
-
+  <br>
+   <h2>My 42Cursus : </h2>
+  
+[![aahlyel's 42 stats](https://badge.mediaplus.ma/kettlebells/aahlyel)](https://github.com/oakoudad/badge42)
  <h3>📫 How to reach me:</h3>
 <p>You can reach me at the following accounts!</p>
 
