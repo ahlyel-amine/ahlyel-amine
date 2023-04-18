@@ -1,5 +1,6 @@
 
 <h1 align="center">< /AhlyelAmine></h1>
+<h1 align="center">plz switch to dark mode</h1>
 <p align="center">
   <img src="https://github.com/AhlyelAmine/AhlyelAmine/blob/main/great.gif" alt="loading..." />
 </p>
