@@ -17,7 +17,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AhlyelAmine&repo=get_next_line&theme=gruvbox)](https://github.com/AhlyelAmine/get_next_line) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AhlyelAmine&repo=pipex&theme=gruvbox)](https://github.com/AhlyelAmine/pipex)
  <h2>In work :</h2>
  
-MINISHELL
+PHILOSOPHERS
 
  <h2>This is a quick look into my favorite coding languages /Stats:</h2>
  <p align="left">
