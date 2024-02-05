@@ -14,7 +14,7 @@
 
 <h2> Welcome to my Github account where you will find the folowing topics (and more):</h2>
  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AhlyelAmine&repo=get_next_line&theme=gruvbox)](https://github.com/AhlyelAmine/get_next_line) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AhlyelAmine&repo=pipex&theme=gruvbox)](https://github.com/AhlyelAmine/pipex) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AhlyelAmine&repo=ft_printf&theme=gruvbox)](https://github.com/AhlyelAmine/ft_printf) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AhlyelAmine&repo=libft&theme=gruvbox)](https://github.com/AhlyelAmine/libft)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AhlyelAmine&repo=Garbage_Collector&theme=gruvbox)](https://github.com/AhlyelAmine/Garbage_Collector)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AhlyelAmine&repo=mini_shell&theme=gruvbox)](https://github.com/AhlyelAmine/mini_shell) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AhlyelAmine&repo=minirt&theme=gruvbox)](https://github.com/AhlyelAmine/minirt) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AhlyelAmine&repo=product-analyzer&theme=gruvbox)](https://github.com/AhlyelAmine/product-analyzer) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AhlyelAmine&repo=libft&theme=gruvbox)](https://github.com/AhlyelAmine/libft)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AhlyelAmine&repo=ask-pdf&theme=gruvbox)](https://github.com/AhlyelAmine/ask-pdf)
 
  <h2>This is a quick look into my favorite coding languages /Stats:</h2>
  <p align="left">
