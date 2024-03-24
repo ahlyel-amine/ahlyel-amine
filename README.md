@@ -15,6 +15,7 @@
 <h2> Welcome to my Github account where you will find the folowing topics (and more):</h2>
  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AhlyelAmine&repo=mini_shell&theme=gruvbox)](https://github.com/AhlyelAmine/mini_shell) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AhlyelAmine&repo=minirt&theme=gruvbox)](https://github.com/AhlyelAmine/minirt) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AhlyelAmine&repo=Philosophers&theme=gruvbox)](https://github.com/AhlyelAmine/Philosophers)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AhlyelAmine&repo=libft&theme=gruvbox)](https://github.com/AhlyelAmine/libft)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AhlyelAmine&repo=ft_IRC&theme=gruvbox)](https://github.com/AhlyelAmine/ft_IRC)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AhlyelAmine&repo=python-for-data-science-pool&theme=gruvbox)](https://github.com/AhlyelAmine/python-for-data-science-pool) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AhlyelAmine&repo=Push_swap&theme=gruvbox)](https://github.com/AhlyelAmine/Push_swap) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AhlyelAmine&repo=get_next_line&theme=gruvbox)](https://github.com/AhlyelAmine/get_next_line)   
 
  <h2>This is a quick look into my favorite coding languages /Stats:</h2>
  <p align="left">
