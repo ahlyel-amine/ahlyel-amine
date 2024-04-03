@@ -23,6 +23,7 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AhlyelAmine&theme=gruvbox" />
 </p>
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhlyelAmine&hide=Jupyter%20Notebook&layout=compact&theme=gruvbox)](https://github.com/rahulbordoloi/github-readme-stats)
   <br>
    <h2>My 42Cursus : </h2>
@@ -34,5 +35,6 @@
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow AhlyelAmine on LinkedIn" title="Follow AhlyelAmine on LinkedIn"/>](https://www.linkedin.com/in/amine-ahlyel-b21a86198/)
 <br>
 <br>
+[![wakatime](https://wakatime.com/badge/user/018dad55-12ef-4d7e-9280-7d4d54ff969e.svg)](https://wakatime.com/@018dad55-12ef-4d7e-9280-7d4d54ff969e)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
