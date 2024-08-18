@@ -8,9 +8,13 @@
 </div>
 
 <h1 align="center">plz switch to dark mode</h1>
-<p align="center">
-  <a href=#><img src="contributions.svg"></a>
-</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahlyel-amine/ahlyel-amine/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahlyel-amine/ahlyel-amine/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ahlyel-amine/ahlyel-amine/output/github-contribution-grid-snake.svg">
+</picture>
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ahlyel-amine/count.svg" />
