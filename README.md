@@ -2,10 +2,9 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
 
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
-<br>
-<br>
-<img src="https://readme-typing-svg.herokuapp.com?lines=%3C%2Fahlyel-amine%3E;Welcome+to+my+profile&font=Fira+Code&pause=1000&color=D65D0E&center=true&vCenter=true" />
-<br>
+<p align=center>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=86A72E&background=5E5E5E00&center=true&vCenter=true&width=300&lines=%3C%2Fahlyel-amine%3E;Welcome+to+my+profile!" alt="Typing SVG" /><br>
+</p>
 <br>
 <br>
 <br>
