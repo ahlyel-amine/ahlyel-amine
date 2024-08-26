@@ -1,10 +1,8 @@
 <div>
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
-
-<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
 <p align=center>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=86A72E&background=5E5E5E00&center=true&vCenter=true&width=300&lines=%3C%2Fahlyel-amine%3E;Welcome+to+my+profile!" alt="Typing SVG" /><br>
 </p>
+<img align="right" src="./ahlyelamine" width="30%" style="display:inline;">
 <br>
 <br>
 <br>
@@ -52,9 +50,6 @@
  <h3>📫 How to reach me:</h3>
 <p>You can reach me at the following accounts!</p>
 
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow ahlyel-amine on LinkedIn" title="Follow ahlyel-amine on LinkedIn"/>](https://www.linkedin.com/in/amine-ahlyel-b21a86198/)
-<br>
-<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amine%20Ahlyel-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amine-ahlyel-b21a86198/)
 [![wakatime](https://wakatime.com/badge/user/018dad55-12ef-4d7e-9280-7d4d54ff969e.svg)](https://wakatime.com/@018dad55-12ef-4d7e-9280-7d4d54ff969e)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
