@@ -2,18 +2,12 @@
 <p align=center>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=86A72E&background=5E5E5E00&center=true&vCenter=true&width=300&lines=%3C%2Fahlyel-amine%3E;Welcome+to+my+profile!" alt="Typing SVG" /><br>
 </p>
-<img align="right" src="./ahlyelamine" width="30%" style="display:inline;">
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 </div>
+<div align="center">
+  <img  src="./ahlyel-amine.webp" width="600px" height="400px" >
+</div>
 
-<h1 align="center">plz switch to dark mode</h1>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahlyel-amine/ahlyel-amine/output/github-contribution-grid-snake-dark.svg">
@@ -44,7 +38,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahlyel-amine&hide=Jupyter%20Notebook&layout=compact&theme=gruvbox)](https://github.com/rahulbordoloi/github-readme-stats)
   <br>
-   <h2>My 42Cursus : </h2>
+   <h2>  My 42Cursus : </h2>
   
 [![aahlyel's 42 stats](https://badge.mediaplus.ma/kettlebells/aahlyel)](https://github.com/oakoudad/badge42)
  <h3>📫 How to reach me:</h3>
