@@ -7,17 +7,17 @@
 <div align="center">
   <img  src="./ahlyel-amine.webp" width="600px" height="400px" >
 </div>
+<br><br>
 
+[![wakatime](https://wakatime.com/badge/user/018dad55-12ef-4d7e-9280-7d4d54ff969e.svg)](https://wakatime.com/@018dad55-12ef-4d7e-9280-7d4d54ff969e)
+![](https://komarev.com/ghpvc/?username=ahlyel-amine&color=ff69b4&label=Visitors+count)
+<!-- [![committers.top badge](https://user-badge.committers.top/morocco/ahlyel-amine.svg)](https://user-badge.committers.top/morocco/ahlyel-amine) -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahlyel-amine/ahlyel-amine/output/github-contribution-grid-snake-dark.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ahlyel-amine/ahlyel-amine/output/github-contribution-grid-snake.svg">
 </picture>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ahlyel-amine/count.svg" />
-</p>
 
 ## 💻 Tech Skills:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -45,5 +45,4 @@
 <p>You can reach me at the following accounts!</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amine%20Ahlyel-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amine-ahlyel-b21a86198/)
-[![wakatime](https://wakatime.com/badge/user/018dad55-12ef-4d7e-9280-7d4d54ff969e.svg)](https://wakatime.com/@018dad55-12ef-4d7e-9280-7d4d54ff969e)
-[![committers.top badge](https://user-badge.committers.top/morocco/ahlyel-amine.svg)](https://user-badge.committers.top/morocco/ahlyel-amine)
+
