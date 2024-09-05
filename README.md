@@ -11,7 +11,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/018dad55-12ef-4d7e-9280-7d4d54ff969e.svg)](https://wakatime.com/@018dad55-12ef-4d7e-9280-7d4d54ff969e)
 ![](https://komarev.com/ghpvc/?username=ahlyel-amine&color=ff69b4&label=Visitors+count)
-[![committers.top badge](https://user-badge.committers.top/morocco_public/ahlyel-amine.svg)](https://user-badge.committers.top/morocco_public/ahlyel-amine)
+[![committers.top badge](https://user-badge.committers.top/morocco_private/ahlyel-amine.svg)](https://user-badge.committers.top/morocco_private/ahlyel-amine)
 
 
 <!-- [![committers.top badge](https://user-badge.committers.top/morocco/ahlyel-amine.svg)](https://user-badge.committers.top/morocco/ahlyel-amine) -->
