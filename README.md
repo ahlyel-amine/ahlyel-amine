@@ -2,16 +2,17 @@
 <p align=center>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=86A72E&background=5E5E5E00&center=true&vCenter=true&width=300&lines=%3C%2Fahlyel-amine%3E;Welcome+to+my+profile!" alt="Typing SVG" /><br>
 </p>
-
+<p align="center">
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/kettlebells/aahlyel" alt="aahlyel's 42 stats" />
+  </a>
+</p>
 </div>
-<div align="center">
+<!-- <div align="center">
   <img  src="./ahlyel-amine.webp" width="600px" height="400px" >
-</div>
+</div> 
+-->
 <br><br>
-
-
-## 💻 Tech Skills:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
 <picture>
@@ -22,12 +23,8 @@
 
 [![wakatime](https://wakatime.com/badge/user/018dad55-12ef-4d7e-9280-7d4d54ff969e.svg)](https://wakatime.com/@018dad55-12ef-4d7e-9280-7d4d54ff969e)
 ![](https://komarev.com/ghpvc/?username=ahlyel-amine&color=ff69b4&label=Visitors+count)
-[![committers.top badge](https://user-badge.committers.top/morocco_public/ahlyel-amine.svg)](https://user-badge.committers.top/morocco_public/ahlyel-amine)
 
 <details>
-
-<!-- [![committers.top badge](https://user-badge.committers.top/morocco/ahlyel-amine.svg)](https://user-badge.committers.top/morocco/ahlyel-amine) -->
-
 
 ##
 <h2> Welcome to my Github account where you will find the folowing topics (and more):</h2>
@@ -43,10 +40,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahlyel-amine&hide=Jupyter%20Notebook&layout=compact&theme=gruvbox)](https://github.com/rahulbordoloi/github-readme-stats)
 
-  <br>
-   <h2>  My 42Cursus : </h2>
-  
-[![aahlyel's 42 stats](https://badge.mediaplus.ma/kettlebells/aahlyel)](https://github.com/oakoudad/badge42)
 
 </details>
  <h3>📫 How to reach me:</h3>
